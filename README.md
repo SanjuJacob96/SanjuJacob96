@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SanjuJacob96
+- 👋 Hi, I’m Sanju Jacob
 - 👀 I’m interested in Mechanical, Electronics and Programming
 - 🌱 I’m currently learning Masters in Engineering Sciences with focus on Mechatronics
 - 💞️ I’m looking to collaborate on creative projects to bridge gap between hardware and software
